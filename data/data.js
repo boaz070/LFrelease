@@ -17,6 +17,7 @@ define({
 
 	object:
 	[
+		{id:31 type:'character', file:'data/davis'}
 		{id:30, type:'character', file:'data/bandit'},
 		{id:100, type:'lightweapon', file:'data/weapon0'}, //stick
 		{id:101, type:'lightweapon', file:'data/weapon2'}, //hoe
